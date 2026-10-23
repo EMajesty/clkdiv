@@ -1,0 +1,380 @@
+[
+    {
+        "command": "/home/emaj/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/sparkfun_promicro16/FrameworkArduino/CDC.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60119 -DARDUINO_AVR_PROMICRO16 -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x1B4F -DUSB_PID=0x9206 \"-DUSB_PRODUCT=\\\"SparkFun Pro Micro\\\"\" -DUSB_MANUFACTURER=\\\"SparkFun\\\" -I/home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/emaj/.platformio/packages/framework-arduino-avr/variants/sparkfun_promicro /home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino/CDC.cpp",
+        "directory": "/home/emaj/git/clkdiv/firmware",
+        "file": "/home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino/CDC.cpp",
+        "output": ".pio/build/sparkfun_promicro16/FrameworkArduino/CDC.cpp.o"
+    },
+    {
+        "command": "/home/emaj/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/sparkfun_promicro16/FrameworkArduino/HardwareSerial.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60119 -DARDUINO_AVR_PROMICRO16 -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x1B4F -DUSB_PID=0x9206 \"-DUSB_PRODUCT=\\\"SparkFun Pro Micro\\\"\" -DUSB_MANUFACTURER=\\\"SparkFun\\\" -I/home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/emaj/.platformio/packages/framework-arduino-avr/variants/sparkfun_promicro /home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino/HardwareSerial.cpp",
+        "directory": "/home/emaj/git/clkdiv/firmware",
+        "file": "/home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino/HardwareSerial.cpp",
+        "output": ".pio/build/sparkfun_promicro16/FrameworkArduino/HardwareSerial.cpp.o"
+    },
+    {
+        "command": "/home/emaj/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/sparkfun_promicro16/FrameworkArduino/HardwareSerial0.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60119 -DARDUINO_AVR_PROMICRO16 -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x1B4F -DUSB_PID=0x9206 \"-DUSB_PRODUCT=\\\"SparkFun Pro Micro\\\"\" -DUSB_MANUFACTURER=\\\"SparkFun\\\" -I/home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/emaj/.platformio/packages/framework-arduino-avr/variants/sparkfun_promicro /home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino/HardwareSerial0.cpp",
+        "directory": "/home/emaj/git/clkdiv/firmware",
+        "file": "/home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino/HardwareSerial0.cpp",
+        "output": ".pio/build/sparkfun_promicro16/FrameworkArduino/HardwareSerial0.cpp.o"
+    },
+    {
+        "command": "/home/emaj/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/sparkfun_promicro16/FrameworkArduino/HardwareSerial1.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60119 -DARDUINO_AVR_PROMICRO16 -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x1B4F -DUSB_PID=0x9206 \"-DUSB_PRODUCT=\\\"SparkFun Pro Micro\\\"\" -DUSB_MANUFACTURER=\\\"SparkFun\\\" -I/home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/emaj/.platformio/packages/framework-arduino-avr/variants/sparkfun_promicro /home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino/HardwareSerial1.cpp",
+        "directory": "/home/emaj/git/clkdiv/firmware",
+        "file": "/home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino/HardwareSerial1.cpp",
+        "output": ".pio/build/sparkfun_promicro16/FrameworkArduino/HardwareSerial1.cpp.o"
+    },
+    {
+        "command": "/home/emaj/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/sparkfun_promicro16/FrameworkArduino/HardwareSerial2.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60119 -DARDUINO_AVR_PROMICRO16 -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x1B4F -DUSB_PID=0x9206 \"-DUSB_PRODUCT=\\\"SparkFun Pro Micro\\\"\" -DUSB_MANUFACTURER=\\\"SparkFun\\\" -I/home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/emaj/.platformio/packages/framework-arduino-avr/variants/sparkfun_promicro /home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino/HardwareSerial2.cpp",
+        "directory": "/home/emaj/git/clkdiv/firmware",
+        "file": "/home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino/HardwareSerial2.cpp",
+        "output": ".pio/build/sparkfun_promicro16/FrameworkArduino/HardwareSerial2.cpp.o"
+    },
+    {
+        "command": "/home/emaj/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/sparkfun_promicro16/FrameworkArduino/HardwareSerial3.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60119 -DARDUINO_AVR_PROMICRO16 -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x1B4F -DUSB_PID=0x9206 \"-DUSB_PRODUCT=\\\"SparkFun Pro Micro\\\"\" -DUSB_MANUFACTURER=\\\"SparkFun\\\" -I/home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/emaj/.platformio/packages/framework-arduino-avr/variants/sparkfun_promicro /home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino/HardwareSerial3.cpp",
+        "directory": "/home/emaj/git/clkdiv/firmware",
+        "file": "/home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino/HardwareSerial3.cpp",
+        "output": ".pio/build/sparkfun_promicro16/FrameworkArduino/HardwareSerial3.cpp.o"
+    },
+    {
+        "command": "/home/emaj/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/sparkfun_promicro16/FrameworkArduino/IPAddress.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60119 -DARDUINO_AVR_PROMICRO16 -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x1B4F -DUSB_PID=0x9206 \"-DUSB_PRODUCT=\\\"SparkFun Pro Micro\\\"\" -DUSB_MANUFACTURER=\\\"SparkFun\\\" -I/home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/emaj/.platformio/packages/framework-arduino-avr/variants/sparkfun_promicro /home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino/IPAddress.cpp",
+        "directory": "/home/emaj/git/clkdiv/firmware",
+        "file": "/home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino/IPAddress.cpp",
+        "output": ".pio/build/sparkfun_promicro16/FrameworkArduino/IPAddress.cpp.o"
+    },
+    {
+        "command": "/home/emaj/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/sparkfun_promicro16/FrameworkArduino/PluggableUSB.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60119 -DARDUINO_AVR_PROMICRO16 -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x1B4F -DUSB_PID=0x9206 \"-DUSB_PRODUCT=\\\"SparkFun Pro Micro\\\"\" -DUSB_MANUFACTURER=\\\"SparkFun\\\" -I/home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/emaj/.platformio/packages/framework-arduino-avr/variants/sparkfun_promicro /home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino/PluggableUSB.cpp",
+        "directory": "/home/emaj/git/clkdiv/firmware",
+        "file": "/home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino/PluggableUSB.cpp",
+        "output": ".pio/build/sparkfun_promicro16/FrameworkArduino/PluggableUSB.cpp.o"
+    },
+    {
+        "command": "/home/emaj/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/sparkfun_promicro16/FrameworkArduino/Print.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60119 -DARDUINO_AVR_PROMICRO16 -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x1B4F -DUSB_PID=0x9206 \"-DUSB_PRODUCT=\\\"SparkFun Pro Micro\\\"\" -DUSB_MANUFACTURER=\\\"SparkFun\\\" -I/home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/emaj/.platformio/packages/framework-arduino-avr/variants/sparkfun_promicro /home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino/Print.cpp",
+        "directory": "/home/emaj/git/clkdiv/firmware",
+        "file": "/home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino/Print.cpp",
+        "output": ".pio/build/sparkfun_promicro16/FrameworkArduino/Print.cpp.o"
+    },
+    {
+        "command": "/home/emaj/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/sparkfun_promicro16/FrameworkArduino/Stream.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60119 -DARDUINO_AVR_PROMICRO16 -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x1B4F -DUSB_PID=0x9206 \"-DUSB_PRODUCT=\\\"SparkFun Pro Micro\\\"\" -DUSB_MANUFACTURER=\\\"SparkFun\\\" -I/home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/emaj/.platformio/packages/framework-arduino-avr/variants/sparkfun_promicro /home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino/Stream.cpp",
+        "directory": "/home/emaj/git/clkdiv/firmware",
+        "file": "/home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino/Stream.cpp",
+        "output": ".pio/build/sparkfun_promicro16/FrameworkArduino/Stream.cpp.o"
+    },
+    {
+        "command": "/home/emaj/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/sparkfun_promicro16/FrameworkArduino/Tone.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60119 -DARDUINO_AVR_PROMICRO16 -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x1B4F -DUSB_PID=0x9206 \"-DUSB_PRODUCT=\\\"SparkFun Pro Micro\\\"\" -DUSB_MANUFACTURER=\\\"SparkFun\\\" -I/home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/emaj/.platformio/packages/framework-arduino-avr/variants/sparkfun_promicro /home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino/Tone.cpp",
+        "directory": "/home/emaj/git/clkdiv/firmware",
+        "file": "/home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino/Tone.cpp",
+        "output": ".pio/build/sparkfun_promicro16/FrameworkArduino/Tone.cpp.o"
+    },
+    {
+        "command": "/home/emaj/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/sparkfun_promicro16/FrameworkArduino/USBCore.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60119 -DARDUINO_AVR_PROMICRO16 -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x1B4F -DUSB_PID=0x9206 \"-DUSB_PRODUCT=\\\"SparkFun Pro Micro\\\"\" -DUSB_MANUFACTURER=\\\"SparkFun\\\" -I/home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/emaj/.platformio/packages/framework-arduino-avr/variants/sparkfun_promicro /home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino/USBCore.cpp",
+        "directory": "/home/emaj/git/clkdiv/firmware",
+        "file": "/home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino/USBCore.cpp",
+        "output": ".pio/build/sparkfun_promicro16/FrameworkArduino/USBCore.cpp.o"
+    },
+    {
+        "command": "/home/emaj/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/sparkfun_promicro16/FrameworkArduino/WInterrupts.c.o -c -std=gnu11 -fno-fat-lto-objects -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60119 -DARDUINO_AVR_PROMICRO16 -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x1B4F -DUSB_PID=0x9206 \"-DUSB_PRODUCT=\\\"SparkFun Pro Micro\\\"\" -DUSB_MANUFACTURER=\\\"SparkFun\\\" -I/home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/emaj/.platformio/packages/framework-arduino-avr/variants/sparkfun_promicro /home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino/WInterrupts.c",
+        "directory": "/home/emaj/git/clkdiv/firmware",
+        "file": "/home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino/WInterrupts.c",
+        "output": ".pio/build/sparkfun_promicro16/FrameworkArduino/WInterrupts.c.o"
+    },
+    {
+        "command": "/home/emaj/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/sparkfun_promicro16/FrameworkArduino/WMath.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60119 -DARDUINO_AVR_PROMICRO16 -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x1B4F -DUSB_PID=0x9206 \"-DUSB_PRODUCT=\\\"SparkFun Pro Micro\\\"\" -DUSB_MANUFACTURER=\\\"SparkFun\\\" -I/home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/emaj/.platformio/packages/framework-arduino-avr/variants/sparkfun_promicro /home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino/WMath.cpp",
+        "directory": "/home/emaj/git/clkdiv/firmware",
+        "file": "/home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino/WMath.cpp",
+        "output": ".pio/build/sparkfun_promicro16/FrameworkArduino/WMath.cpp.o"
+    },
+    {
+        "command": "/home/emaj/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/sparkfun_promicro16/FrameworkArduino/WString.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60119 -DARDUINO_AVR_PROMICRO16 -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x1B4F -DUSB_PID=0x9206 \"-DUSB_PRODUCT=\\\"SparkFun Pro Micro\\\"\" -DUSB_MANUFACTURER=\\\"SparkFun\\\" -I/home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/emaj/.platformio/packages/framework-arduino-avr/variants/sparkfun_promicro /home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino/WString.cpp",
+        "directory": "/home/emaj/git/clkdiv/firmware",
+        "file": "/home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino/WString.cpp",
+        "output": ".pio/build/sparkfun_promicro16/FrameworkArduino/WString.cpp.o"
+    },
+    {
+        "command": "/home/emaj/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/sparkfun_promicro16/FrameworkArduino/abi.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60119 -DARDUINO_AVR_PROMICRO16 -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x1B4F -DUSB_PID=0x9206 \"-DUSB_PRODUCT=\\\"SparkFun Pro Micro\\\"\" -DUSB_MANUFACTURER=\\\"SparkFun\\\" -I/home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/emaj/.platformio/packages/framework-arduino-avr/variants/sparkfun_promicro /home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino/abi.cpp",
+        "directory": "/home/emaj/git/clkdiv/firmware",
+        "file": "/home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino/abi.cpp",
+        "output": ".pio/build/sparkfun_promicro16/FrameworkArduino/abi.cpp.o"
+    },
+    {
+        "command": "/home/emaj/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/sparkfun_promicro16/FrameworkArduino/hooks.c.o -c -std=gnu11 -fno-fat-lto-objects -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60119 -DARDUINO_AVR_PROMICRO16 -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x1B4F -DUSB_PID=0x9206 \"-DUSB_PRODUCT=\\\"SparkFun Pro Micro\\\"\" -DUSB_MANUFACTURER=\\\"SparkFun\\\" -I/home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/emaj/.platformio/packages/framework-arduino-avr/variants/sparkfun_promicro /home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino/hooks.c",
+        "directory": "/home/emaj/git/clkdiv/firmware",
+        "file": "/home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino/hooks.c",
+        "output": ".pio/build/sparkfun_promicro16/FrameworkArduino/hooks.c.o"
+    },
+    {
+        "command": "/home/emaj/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/sparkfun_promicro16/FrameworkArduino/main.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60119 -DARDUINO_AVR_PROMICRO16 -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x1B4F -DUSB_PID=0x9206 \"-DUSB_PRODUCT=\\\"SparkFun Pro Micro\\\"\" -DUSB_MANUFACTURER=\\\"SparkFun\\\" -I/home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/emaj/.platformio/packages/framework-arduino-avr/variants/sparkfun_promicro /home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino/main.cpp",
+        "directory": "/home/emaj/git/clkdiv/firmware",
+        "file": "/home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino/main.cpp",
+        "output": ".pio/build/sparkfun_promicro16/FrameworkArduino/main.cpp.o"
+    },
+    {
+        "command": "/home/emaj/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/sparkfun_promicro16/FrameworkArduino/new.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60119 -DARDUINO_AVR_PROMICRO16 -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x1B4F -DUSB_PID=0x9206 \"-DUSB_PRODUCT=\\\"SparkFun Pro Micro\\\"\" -DUSB_MANUFACTURER=\\\"SparkFun\\\" -I/home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/emaj/.platformio/packages/framework-arduino-avr/variants/sparkfun_promicro /home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino/new.cpp",
+        "directory": "/home/emaj/git/clkdiv/firmware",
+        "file": "/home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino/new.cpp",
+        "output": ".pio/build/sparkfun_promicro16/FrameworkArduino/new.cpp.o"
+    },
+    {
+        "command": "/home/emaj/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/sparkfun_promicro16/FrameworkArduino/wiring.c.o -c -std=gnu11 -fno-fat-lto-objects -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60119 -DARDUINO_AVR_PROMICRO16 -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x1B4F -DUSB_PID=0x9206 \"-DUSB_PRODUCT=\\\"SparkFun Pro Micro\\\"\" -DUSB_MANUFACTURER=\\\"SparkFun\\\" -I/home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/emaj/.platformio/packages/framework-arduino-avr/variants/sparkfun_promicro /home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino/wiring.c",
+        "directory": "/home/emaj/git/clkdiv/firmware",
+        "file": "/home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino/wiring.c",
+        "output": ".pio/build/sparkfun_promicro16/FrameworkArduino/wiring.c.o"
+    },
+    {
+        "command": "/home/emaj/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/sparkfun_promicro16/FrameworkArduino/wiring_analog.c.o -c -std=gnu11 -fno-fat-lto-objects -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60119 -DARDUINO_AVR_PROMICRO16 -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x1B4F -DUSB_PID=0x9206 \"-DUSB_PRODUCT=\\\"SparkFun Pro Micro\\\"\" -DUSB_MANUFACTURER=\\\"SparkFun\\\" -I/home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/emaj/.platformio/packages/framework-arduino-avr/variants/sparkfun_promicro /home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino/wiring_analog.c",
+        "directory": "/home/emaj/git/clkdiv/firmware",
+        "file": "/home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino/wiring_analog.c",
+        "output": ".pio/build/sparkfun_promicro16/FrameworkArduino/wiring_analog.c.o"
+    },
+    {
+        "command": "/home/emaj/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/sparkfun_promicro16/FrameworkArduino/wiring_digital.c.o -c -std=gnu11 -fno-fat-lto-objects -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60119 -DARDUINO_AVR_PROMICRO16 -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x1B4F -DUSB_PID=0x9206 \"-DUSB_PRODUCT=\\\"SparkFun Pro Micro\\\"\" -DUSB_MANUFACTURER=\\\"SparkFun\\\" -I/home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/emaj/.platformio/packages/framework-arduino-avr/variants/sparkfun_promicro /home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino/wiring_digital.c",
+        "directory": "/home/emaj/git/clkdiv/firmware",
+        "file": "/home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino/wiring_digital.c",
+        "output": ".pio/build/sparkfun_promicro16/FrameworkArduino/wiring_digital.c.o"
+    },
+    {
+        "command": "/home/emaj/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -mmcu=atmega32u4 -x assembler-with-cpp -DPLATFORMIO=60119 -DARDUINO_AVR_PROMICRO16 -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x1B4F -DUSB_PID=0x9206 \"-DUSB_PRODUCT=\\\"SparkFun Pro Micro\\\"\" -DUSB_MANUFACTURER=\\\"SparkFun\\\" -I/home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/emaj/.platformio/packages/framework-arduino-avr/variants/sparkfun_promicro -c -o .pio/build/sparkfun_promicro16/FrameworkArduino/wiring_pulse.S.o /home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino/wiring_pulse.S",
+        "directory": "/home/emaj/git/clkdiv/firmware",
+        "file": "/home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino/wiring_pulse.S",
+        "output": ".pio/build/sparkfun_promicro16/FrameworkArduino/wiring_pulse.S.o"
+    },
+    {
+        "command": "/home/emaj/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/sparkfun_promicro16/FrameworkArduino/wiring_pulse.c.o -c -std=gnu11 -fno-fat-lto-objects -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60119 -DARDUINO_AVR_PROMICRO16 -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x1B4F -DUSB_PID=0x9206 \"-DUSB_PRODUCT=\\\"SparkFun Pro Micro\\\"\" -DUSB_MANUFACTURER=\\\"SparkFun\\\" -I/home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/emaj/.platformio/packages/framework-arduino-avr/variants/sparkfun_promicro /home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino/wiring_pulse.c",
+        "directory": "/home/emaj/git/clkdiv/firmware",
+        "file": "/home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino/wiring_pulse.c",
+        "output": ".pio/build/sparkfun_promicro16/FrameworkArduino/wiring_pulse.c.o"
+    },
+    {
+        "command": "/home/emaj/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/sparkfun_promicro16/FrameworkArduino/wiring_shift.c.o -c -std=gnu11 -fno-fat-lto-objects -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60119 -DARDUINO_AVR_PROMICRO16 -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x1B4F -DUSB_PID=0x9206 \"-DUSB_PRODUCT=\\\"SparkFun Pro Micro\\\"\" -DUSB_MANUFACTURER=\\\"SparkFun\\\" -I/home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/emaj/.platformio/packages/framework-arduino-avr/variants/sparkfun_promicro /home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino/wiring_shift.c",
+        "directory": "/home/emaj/git/clkdiv/firmware",
+        "file": "/home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino/wiring_shift.c",
+        "output": ".pio/build/sparkfun_promicro16/FrameworkArduino/wiring_shift.c.o"
+    },
+    {
+        "command": "/home/emaj/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/sparkfun_promicro16/libaa7/SPI/SPI.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60119 -DARDUINO_AVR_PROMICRO16 -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x1B4F -DUSB_PID=0x9206 \"-DUSB_PRODUCT=\\\"SparkFun Pro Micro\\\"\" -DUSB_MANUFACTURER=\\\"SparkFun\\\" -I/home/emaj/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/emaj/.platformio/packages/framework-arduino-avr/variants/sparkfun_promicro /home/emaj/.platformio/packages/framework-arduino-avr/libraries/SPI/src/SPI.cpp",
+        "directory": "/home/emaj/git/clkdiv/firmware",
+        "file": "/home/emaj/.platformio/packages/framework-arduino-avr/libraries/SPI/src/SPI.cpp",
+        "output": ".pio/build/sparkfun_promicro16/libaa7/SPI/SPI.cpp.o"
+    },
+    {
+        "command": "/home/emaj/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/sparkfun_promicro16/lib382/SoftwareSerial/SoftwareSerial.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60119 -DARDUINO_AVR_PROMICRO16 -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x1B4F -DUSB_PID=0x9206 \"-DUSB_PRODUCT=\\\"SparkFun Pro Micro\\\"\" -DUSB_MANUFACTURER=\\\"SparkFun\\\" -I/home/emaj/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src -I/home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/emaj/.platformio/packages/framework-arduino-avr/variants/sparkfun_promicro /home/emaj/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src/SoftwareSerial.cpp",
+        "directory": "/home/emaj/git/clkdiv/firmware",
+        "file": "/home/emaj/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src/SoftwareSerial.cpp",
+        "output": ".pio/build/sparkfun_promicro16/lib382/SoftwareSerial/SoftwareSerial.cpp.o"
+    },
+    {
+        "command": "/home/emaj/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/sparkfun_promicro16/libb83/FastLED/fl/build/extras+.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60119 -DARDUINO_AVR_PROMICRO16 -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x1B4F -DUSB_PID=0x9206 \"-DUSB_PRODUCT=\\\"SparkFun Pro Micro\\\"\" -DUSB_MANUFACTURER=\\\"SparkFun\\\" -I.pio/libdeps/sparkfun_promicro16/FastLED/src -I/home/emaj/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src -I/home/emaj/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/emaj/.platformio/packages/framework-arduino-avr/variants/sparkfun_promicro .pio/libdeps/sparkfun_promicro16/FastLED/src/fl/build/extras+.cpp",
+        "directory": "/home/emaj/git/clkdiv/firmware",
+        "file": ".pio/libdeps/sparkfun_promicro16/FastLED/src/fl/build/extras+.cpp",
+        "output": ".pio/build/sparkfun_promicro16/libb83/FastLED/fl/build/extras+.cpp.o"
+    },
+    {
+        "command": "/home/emaj/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/sparkfun_promicro16/libb83/FastLED/fl/build/fl.asset+.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60119 -DARDUINO_AVR_PROMICRO16 -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x1B4F -DUSB_PID=0x9206 \"-DUSB_PRODUCT=\\\"SparkFun Pro Micro\\\"\" -DUSB_MANUFACTURER=\\\"SparkFun\\\" -I.pio/libdeps/sparkfun_promicro16/FastLED/src -I/home/emaj/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src -I/home/emaj/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/emaj/.platformio/packages/framework-arduino-avr/variants/sparkfun_promicro .pio/libdeps/sparkfun_promicro16/FastLED/src/fl/build/fl.asset+.cpp",
+        "directory": "/home/emaj/git/clkdiv/firmware",
+        "file": ".pio/libdeps/sparkfun_promicro16/FastLED/src/fl/build/fl.asset+.cpp",
+        "output": ".pio/build/sparkfun_promicro16/libb83/FastLED/fl/build/fl.asset+.cpp.o"
+    },
+    {
+        "command": "/home/emaj/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/sparkfun_promicro16/libb83/FastLED/fl/build/fl.audio+.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60119 -DARDUINO_AVR_PROMICRO16 -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x1B4F -DUSB_PID=0x9206 \"-DUSB_PRODUCT=\\\"SparkFun Pro Micro\\\"\" -DUSB_MANUFACTURER=\\\"SparkFun\\\" -I.pio/libdeps/sparkfun_promicro16/FastLED/src -I/home/emaj/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src -I/home/emaj/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/emaj/.platformio/packages/framework-arduino-avr/variants/sparkfun_promicro .pio/libdeps/sparkfun_promicro16/FastLED/src/fl/build/fl.audio+.cpp",
+        "directory": "/home/emaj/git/clkdiv/firmware",
+        "file": ".pio/libdeps/sparkfun_promicro16/FastLED/src/fl/build/fl.audio+.cpp",
+        "output": ".pio/build/sparkfun_promicro16/libb83/FastLED/fl/build/fl.audio+.cpp.o"
+    },
+    {
+        "command": "/home/emaj/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/sparkfun_promicro16/libb83/FastLED/fl/build/fl.channels+.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60119 -DARDUINO_AVR_PROMICRO16 -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x1B4F -DUSB_PID=0x9206 \"-DUSB_PRODUCT=\\\"SparkFun Pro Micro\\\"\" -DUSB_MANUFACTURER=\\\"SparkFun\\\" -I.pio/libdeps/sparkfun_promicro16/FastLED/src -I/home/emaj/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src -I/home/emaj/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/emaj/.platformio/packages/framework-arduino-avr/variants/sparkfun_promicro .pio/libdeps/sparkfun_promicro16/FastLED/src/fl/build/fl.channels+.cpp",
+        "directory": "/home/emaj/git/clkdiv/firmware",
+        "file": ".pio/libdeps/sparkfun_promicro16/FastLED/src/fl/build/fl.channels+.cpp",
+        "output": ".pio/build/sparkfun_promicro16/libb83/FastLED/fl/build/fl.channels+.cpp.o"
+    },
+    {
+        "command": "/home/emaj/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/sparkfun_promicro16/libb83/FastLED/fl/build/fl.chipsets+.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60119 -DARDUINO_AVR_PROMICRO16 -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x1B4F -DUSB_PID=0x9206 \"-DUSB_PRODUCT=\\\"SparkFun Pro Micro\\\"\" -DUSB_MANUFACTURER=\\\"SparkFun\\\" -I.pio/libdeps/sparkfun_promicro16/FastLED/src -I/home/emaj/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src -I/home/emaj/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/emaj/.platformio/packages/framework-arduino-avr/variants/sparkfun_promicro .pio/libdeps/sparkfun_promicro16/FastLED/src/fl/build/fl.chipsets+.cpp",
+        "directory": "/home/emaj/git/clkdiv/firmware",
+        "file": ".pio/libdeps/sparkfun_promicro16/FastLED/src/fl/build/fl.chipsets+.cpp",
+        "output": ".pio/build/sparkfun_promicro16/libb83/FastLED/fl/build/fl.chipsets+.cpp.o"
+    },
+    {
+        "command": "/home/emaj/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/sparkfun_promicro16/libb83/FastLED/fl/build/fl.codec+.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60119 -DARDUINO_AVR_PROMICRO16 -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x1B4F -DUSB_PID=0x9206 \"-DUSB_PRODUCT=\\\"SparkFun Pro Micro\\\"\" -DUSB_MANUFACTURER=\\\"SparkFun\\\" -I.pio/libdeps/sparkfun_promicro16/FastLED/src -I/home/emaj/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src -I/home/emaj/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/emaj/.platformio/packages/framework-arduino-avr/variants/sparkfun_promicro .pio/libdeps/sparkfun_promicro16/FastLED/src/fl/build/fl.codec+.cpp",
+        "directory": "/home/emaj/git/clkdiv/firmware",
+        "file": ".pio/libdeps/sparkfun_promicro16/FastLED/src/fl/build/fl.codec+.cpp",
+        "output": ".pio/build/sparkfun_promicro16/libb83/FastLED/fl/build/fl.codec+.cpp.o"
+    },
+    {
+        "command": "/home/emaj/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/sparkfun_promicro16/libb83/FastLED/fl/build/fl.control+.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60119 -DARDUINO_AVR_PROMICRO16 -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x1B4F -DUSB_PID=0x9206 \"-DUSB_PRODUCT=\\\"SparkFun Pro Micro\\\"\" -DUSB_MANUFACTURER=\\\"SparkFun\\\" -I.pio/libdeps/sparkfun_promicro16/FastLED/src -I/home/emaj/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src -I/home/emaj/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/emaj/.platformio/packages/framework-arduino-avr/variants/sparkfun_promicro .pio/libdeps/sparkfun_promicro16/FastLED/src/fl/build/fl.control+.cpp",
+        "directory": "/home/emaj/git/clkdiv/firmware",
+        "file": ".pio/libdeps/sparkfun_promicro16/FastLED/src/fl/build/fl.control+.cpp",
+        "output": ".pio/build/sparkfun_promicro16/libb83/FastLED/fl/build/fl.control+.cpp.o"
+    },
+    {
+        "command": "/home/emaj/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/sparkfun_promicro16/libb83/FastLED/fl/build/fl.fled+.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60119 -DARDUINO_AVR_PROMICRO16 -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x1B4F -DUSB_PID=0x9206 \"-DUSB_PRODUCT=\\\"SparkFun Pro Micro\\\"\" -DUSB_MANUFACTURER=\\\"SparkFun\\\" -I.pio/libdeps/sparkfun_promicro16/FastLED/src -I/home/emaj/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src -I/home/emaj/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/emaj/.platformio/packages/framework-arduino-avr/variants/sparkfun_promicro .pio/libdeps/sparkfun_promicro16/FastLED/src/fl/build/fl.fled+.cpp",
+        "directory": "/home/emaj/git/clkdiv/firmware",
+        "file": ".pio/libdeps/sparkfun_promicro16/FastLED/src/fl/build/fl.fled+.cpp",
+        "output": ".pio/build/sparkfun_promicro16/libb83/FastLED/fl/build/fl.fled+.cpp.o"
+    },
+    {
+        "command": "/home/emaj/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/sparkfun_promicro16/libb83/FastLED/fl/build/fl.font+.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60119 -DARDUINO_AVR_PROMICRO16 -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x1B4F -DUSB_PID=0x9206 \"-DUSB_PRODUCT=\\\"SparkFun Pro Micro\\\"\" -DUSB_MANUFACTURER=\\\"SparkFun\\\" -I.pio/libdeps/sparkfun_promicro16/FastLED/src -I/home/emaj/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src -I/home/emaj/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/emaj/.platformio/packages/framework-arduino-avr/variants/sparkfun_promicro .pio/libdeps/sparkfun_promicro16/FastLED/src/fl/build/fl.font+.cpp",
+        "directory": "/home/emaj/git/clkdiv/firmware",
+        "file": ".pio/libdeps/sparkfun_promicro16/FastLED/src/fl/build/fl.font+.cpp",
+        "output": ".pio/build/sparkfun_promicro16/libb83/FastLED/fl/build/fl.font+.cpp.o"
+    },
+    {
+        "command": "/home/emaj/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/sparkfun_promicro16/libb83/FastLED/fl/build/fl.fs+.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60119 -DARDUINO_AVR_PROMICRO16 -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x1B4F -DUSB_PID=0x9206 \"-DUSB_PRODUCT=\\\"SparkFun Pro Micro\\\"\" -DUSB_MANUFACTURER=\\\"SparkFun\\\" -I.pio/libdeps/sparkfun_promicro16/FastLED/src -I/home/emaj/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src -I/home/emaj/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/emaj/.platformio/packages/framework-arduino-avr/variants/sparkfun_promicro .pio/libdeps/sparkfun_promicro16/FastLED/src/fl/build/fl.fs+.cpp",
+        "directory": "/home/emaj/git/clkdiv/firmware",
+        "file": ".pio/libdeps/sparkfun_promicro16/FastLED/src/fl/build/fl.fs+.cpp",
+        "output": ".pio/build/sparkfun_promicro16/libb83/FastLED/fl/build/fl.fs+.cpp.o"
+    },
+    {
+        "command": "/home/emaj/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/sparkfun_promicro16/libb83/FastLED/fl/build/fl.fs.embedded+.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60119 -DARDUINO_AVR_PROMICRO16 -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x1B4F -DUSB_PID=0x9206 \"-DUSB_PRODUCT=\\\"SparkFun Pro Micro\\\"\" -DUSB_MANUFACTURER=\\\"SparkFun\\\" -I.pio/libdeps/sparkfun_promicro16/FastLED/src -I/home/emaj/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src -I/home/emaj/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/emaj/.platformio/packages/framework-arduino-avr/variants/sparkfun_promicro .pio/libdeps/sparkfun_promicro16/FastLED/src/fl/build/fl.fs.embedded+.cpp",
+        "directory": "/home/emaj/git/clkdiv/firmware",
+        "file": ".pio/libdeps/sparkfun_promicro16/FastLED/src/fl/build/fl.fs.embedded+.cpp",
+        "output": ".pio/build/sparkfun_promicro16/libb83/FastLED/fl/build/fl.fs.embedded+.cpp.o"
+    },
+    {
+        "command": "/home/emaj/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/sparkfun_promicro16/libb83/FastLED/fl/build/fl.fs.sd+.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60119 -DARDUINO_AVR_PROMICRO16 -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x1B4F -DUSB_PID=0x9206 \"-DUSB_PRODUCT=\\\"SparkFun Pro Micro\\\"\" -DUSB_MANUFACTURER=\\\"SparkFun\\\" -I.pio/libdeps/sparkfun_promicro16/FastLED/src -I/home/emaj/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src -I/home/emaj/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/emaj/.platformio/packages/framework-arduino-avr/variants/sparkfun_promicro .pio/libdeps/sparkfun_promicro16/FastLED/src/fl/build/fl.fs.sd+.cpp",
+        "directory": "/home/emaj/git/clkdiv/firmware",
+        "file": ".pio/libdeps/sparkfun_promicro16/FastLED/src/fl/build/fl.fs.sd+.cpp",
+        "output": ".pio/build/sparkfun_promicro16/libb83/FastLED/fl/build/fl.fs.sd+.cpp.o"
+    },
+    {
+        "command": "/home/emaj/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/sparkfun_promicro16/libb83/FastLED/fl/build/fl.fx+.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60119 -DARDUINO_AVR_PROMICRO16 -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x1B4F -DUSB_PID=0x9206 \"-DUSB_PRODUCT=\\\"SparkFun Pro Micro\\\"\" -DUSB_MANUFACTURER=\\\"SparkFun\\\" -I.pio/libdeps/sparkfun_promicro16/FastLED/src -I/home/emaj/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src -I/home/emaj/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/emaj/.platformio/packages/framework-arduino-avr/variants/sparkfun_promicro .pio/libdeps/sparkfun_promicro16/FastLED/src/fl/build/fl.fx+.cpp",
+        "directory": "/home/emaj/git/clkdiv/firmware",
+        "file": ".pio/libdeps/sparkfun_promicro16/FastLED/src/fl/build/fl.fx+.cpp",
+        "output": ".pio/build/sparkfun_promicro16/libb83/FastLED/fl/build/fl.fx+.cpp.o"
+    },
+    {
+        "command": "/home/emaj/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/sparkfun_promicro16/libb83/FastLED/fl/build/fl.gfx+.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60119 -DARDUINO_AVR_PROMICRO16 -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x1B4F -DUSB_PID=0x9206 \"-DUSB_PRODUCT=\\\"SparkFun Pro Micro\\\"\" -DUSB_MANUFACTURER=\\\"SparkFun\\\" -I.pio/libdeps/sparkfun_promicro16/FastLED/src -I/home/emaj/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src -I/home/emaj/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/emaj/.platformio/packages/framework-arduino-avr/variants/sparkfun_promicro .pio/libdeps/sparkfun_promicro16/FastLED/src/fl/build/fl.gfx+.cpp",
+        "directory": "/home/emaj/git/clkdiv/firmware",
+        "file": ".pio/libdeps/sparkfun_promicro16/FastLED/src/fl/build/fl.gfx+.cpp",
+        "output": ".pio/build/sparkfun_promicro16/libb83/FastLED/fl/build/fl.gfx+.cpp.o"
+    },
+    {
+        "command": "/home/emaj/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/sparkfun_promicro16/libb83/FastLED/fl/build/fl.log+.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60119 -DARDUINO_AVR_PROMICRO16 -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x1B4F -DUSB_PID=0x9206 \"-DUSB_PRODUCT=\\\"SparkFun Pro Micro\\\"\" -DUSB_MANUFACTURER=\\\"SparkFun\\\" -I.pio/libdeps/sparkfun_promicro16/FastLED/src -I/home/emaj/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src -I/home/emaj/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/emaj/.platformio/packages/framework-arduino-avr/variants/sparkfun_promicro .pio/libdeps/sparkfun_promicro16/FastLED/src/fl/build/fl.log+.cpp",
+        "directory": "/home/emaj/git/clkdiv/firmware",
+        "file": ".pio/libdeps/sparkfun_promicro16/FastLED/src/fl/build/fl.log+.cpp",
+        "output": ".pio/build/sparkfun_promicro16/libb83/FastLED/fl/build/fl.log+.cpp.o"
+    },
+    {
+        "command": "/home/emaj/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/sparkfun_promicro16/libb83/FastLED/fl/build/fl.math+.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60119 -DARDUINO_AVR_PROMICRO16 -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x1B4F -DUSB_PID=0x9206 \"-DUSB_PRODUCT=\\\"SparkFun Pro Micro\\\"\" -DUSB_MANUFACTURER=\\\"SparkFun\\\" -I.pio/libdeps/sparkfun_promicro16/FastLED/src -I/home/emaj/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src -I/home/emaj/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/emaj/.platformio/packages/framework-arduino-avr/variants/sparkfun_promicro .pio/libdeps/sparkfun_promicro16/FastLED/src/fl/build/fl.math+.cpp",
+        "directory": "/home/emaj/git/clkdiv/firmware",
+        "file": ".pio/libdeps/sparkfun_promicro16/FastLED/src/fl/build/fl.math+.cpp",
+        "output": ".pio/build/sparkfun_promicro16/libb83/FastLED/fl/build/fl.math+.cpp.o"
+    },
+    {
+        "command": "/home/emaj/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/sparkfun_promicro16/libb83/FastLED/fl/build/fl.net+.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60119 -DARDUINO_AVR_PROMICRO16 -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x1B4F -DUSB_PID=0x9206 \"-DUSB_PRODUCT=\\\"SparkFun Pro Micro\\\"\" -DUSB_MANUFACTURER=\\\"SparkFun\\\" -I.pio/libdeps/sparkfun_promicro16/FastLED/src -I/home/emaj/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src -I/home/emaj/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/emaj/.platformio/packages/framework-arduino-avr/variants/sparkfun_promicro .pio/libdeps/sparkfun_promicro16/FastLED/src/fl/build/fl.net+.cpp",
+        "directory": "/home/emaj/git/clkdiv/firmware",
+        "file": ".pio/libdeps/sparkfun_promicro16/FastLED/src/fl/build/fl.net+.cpp",
+        "output": ".pio/build/sparkfun_promicro16/libb83/FastLED/fl/build/fl.net+.cpp.o"
+    },
+    {
+        "command": "/home/emaj/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/sparkfun_promicro16/libb83/FastLED/fl/build/fl.net.ota+.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60119 -DARDUINO_AVR_PROMICRO16 -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x1B4F -DUSB_PID=0x9206 \"-DUSB_PRODUCT=\\\"SparkFun Pro Micro\\\"\" -DUSB_MANUFACTURER=\\\"SparkFun\\\" -I.pio/libdeps/sparkfun_promicro16/FastLED/src -I/home/emaj/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src -I/home/emaj/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/emaj/.platformio/packages/framework-arduino-avr/variants/sparkfun_promicro .pio/libdeps/sparkfun_promicro16/FastLED/src/fl/build/fl.net.ota+.cpp",
+        "directory": "/home/emaj/git/clkdiv/firmware",
+        "file": ".pio/libdeps/sparkfun_promicro16/FastLED/src/fl/build/fl.net.ota+.cpp",
+        "output": ".pio/build/sparkfun_promicro16/libb83/FastLED/fl/build/fl.net.ota+.cpp.o"
+    },
+    {
+        "command": "/home/emaj/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/sparkfun_promicro16/libb83/FastLED/fl/build/fl.remote+.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60119 -DARDUINO_AVR_PROMICRO16 -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x1B4F -DUSB_PID=0x9206 \"-DUSB_PRODUCT=\\\"SparkFun Pro Micro\\\"\" -DUSB_MANUFACTURER=\\\"SparkFun\\\" -I.pio/libdeps/sparkfun_promicro16/FastLED/src -I/home/emaj/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src -I/home/emaj/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/emaj/.platformio/packages/framework-arduino-avr/variants/sparkfun_promicro .pio/libdeps/sparkfun_promicro16/FastLED/src/fl/build/fl.remote+.cpp",
+        "directory": "/home/emaj/git/clkdiv/firmware",
+        "file": ".pio/libdeps/sparkfun_promicro16/FastLED/src/fl/build/fl.remote+.cpp",
+        "output": ".pio/build/sparkfun_promicro16/libb83/FastLED/fl/build/fl.remote+.cpp.o"
+    },
+    {
+        "command": "/home/emaj/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/sparkfun_promicro16/libb83/FastLED/fl/build/fl.sensors+.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60119 -DARDUINO_AVR_PROMICRO16 -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x1B4F -DUSB_PID=0x9206 \"-DUSB_PRODUCT=\\\"SparkFun Pro Micro\\\"\" -DUSB_MANUFACTURER=\\\"SparkFun\\\" -I.pio/libdeps/sparkfun_promicro16/FastLED/src -I/home/emaj/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src -I/home/emaj/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/emaj/.platformio/packages/framework-arduino-avr/variants/sparkfun_promicro .pio/libdeps/sparkfun_promicro16/FastLED/src/fl/build/fl.sensors+.cpp",
+        "directory": "/home/emaj/git/clkdiv/firmware",
+        "file": ".pio/libdeps/sparkfun_promicro16/FastLED/src/fl/build/fl.sensors+.cpp",
+        "output": ".pio/build/sparkfun_promicro16/libb83/FastLED/fl/build/fl.sensors+.cpp.o"
+    },
+    {
+        "command": "/home/emaj/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/sparkfun_promicro16/libb83/FastLED/fl/build/fl.stl+.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60119 -DARDUINO_AVR_PROMICRO16 -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x1B4F -DUSB_PID=0x9206 \"-DUSB_PRODUCT=\\\"SparkFun Pro Micro\\\"\" -DUSB_MANUFACTURER=\\\"SparkFun\\\" -I.pio/libdeps/sparkfun_promicro16/FastLED/src -I/home/emaj/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src -I/home/emaj/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/emaj/.platformio/packages/framework-arduino-avr/variants/sparkfun_promicro .pio/libdeps/sparkfun_promicro16/FastLED/src/fl/build/fl.stl+.cpp",
+        "directory": "/home/emaj/git/clkdiv/firmware",
+        "file": ".pio/libdeps/sparkfun_promicro16/FastLED/src/fl/build/fl.stl+.cpp",
+        "output": ".pio/build/sparkfun_promicro16/libb83/FastLED/fl/build/fl.stl+.cpp.o"
+    },
+    {
+        "command": "/home/emaj/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/sparkfun_promicro16/libb83/FastLED/fl/build/fl.system+.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60119 -DARDUINO_AVR_PROMICRO16 -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x1B4F -DUSB_PID=0x9206 \"-DUSB_PRODUCT=\\\"SparkFun Pro Micro\\\"\" -DUSB_MANUFACTURER=\\\"SparkFun\\\" -I.pio/libdeps/sparkfun_promicro16/FastLED/src -I/home/emaj/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src -I/home/emaj/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/emaj/.platformio/packages/framework-arduino-avr/variants/sparkfun_promicro .pio/libdeps/sparkfun_promicro16/FastLED/src/fl/build/fl.system+.cpp",
+        "directory": "/home/emaj/git/clkdiv/firmware",
+        "file": ".pio/libdeps/sparkfun_promicro16/FastLED/src/fl/build/fl.system+.cpp",
+        "output": ".pio/build/sparkfun_promicro16/libb83/FastLED/fl/build/fl.system+.cpp.o"
+    },
+    {
+        "command": "/home/emaj/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/sparkfun_promicro16/libb83/FastLED/fl/build/fl.system.analog+.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60119 -DARDUINO_AVR_PROMICRO16 -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x1B4F -DUSB_PID=0x9206 \"-DUSB_PRODUCT=\\\"SparkFun Pro Micro\\\"\" -DUSB_MANUFACTURER=\\\"SparkFun\\\" -I.pio/libdeps/sparkfun_promicro16/FastLED/src -I/home/emaj/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src -I/home/emaj/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/emaj/.platformio/packages/framework-arduino-avr/variants/sparkfun_promicro .pio/libdeps/sparkfun_promicro16/FastLED/src/fl/build/fl.system.analog+.cpp",
+        "directory": "/home/emaj/git/clkdiv/firmware",
+        "file": ".pio/libdeps/sparkfun_promicro16/FastLED/src/fl/build/fl.system.analog+.cpp",
+        "output": ".pio/build/sparkfun_promicro16/libb83/FastLED/fl/build/fl.system.analog+.cpp.o"
+    },
+    {
+        "command": "/home/emaj/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/sparkfun_promicro16/libb83/FastLED/fl/build/fl.system.sd+.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60119 -DARDUINO_AVR_PROMICRO16 -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x1B4F -DUSB_PID=0x9206 \"-DUSB_PRODUCT=\\\"SparkFun Pro Micro\\\"\" -DUSB_MANUFACTURER=\\\"SparkFun\\\" -I.pio/libdeps/sparkfun_promicro16/FastLED/src -I/home/emaj/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src -I/home/emaj/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/emaj/.platformio/packages/framework-arduino-avr/variants/sparkfun_promicro .pio/libdeps/sparkfun_promicro16/FastLED/src/fl/build/fl.system.sd+.cpp",
+        "directory": "/home/emaj/git/clkdiv/firmware",
+        "file": ".pio/libdeps/sparkfun_promicro16/FastLED/src/fl/build/fl.system.sd+.cpp",
+        "output": ".pio/build/sparkfun_promicro16/libb83/FastLED/fl/build/fl.system.sd+.cpp.o"
+    },
+    {
+        "command": "/home/emaj/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/sparkfun_promicro16/libb83/FastLED/fl/build/fl.task+.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60119 -DARDUINO_AVR_PROMICRO16 -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x1B4F -DUSB_PID=0x9206 \"-DUSB_PRODUCT=\\\"SparkFun Pro Micro\\\"\" -DUSB_MANUFACTURER=\\\"SparkFun\\\" -I.pio/libdeps/sparkfun_promicro16/FastLED/src -I/home/emaj/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src -I/home/emaj/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/emaj/.platformio/packages/framework-arduino-avr/variants/sparkfun_promicro .pio/libdeps/sparkfun_promicro16/FastLED/src/fl/build/fl.task+.cpp",
+        "directory": "/home/emaj/git/clkdiv/firmware",
+        "file": ".pio/libdeps/sparkfun_promicro16/FastLED/src/fl/build/fl.task+.cpp",
+        "output": ".pio/build/sparkfun_promicro16/libb83/FastLED/fl/build/fl.task+.cpp.o"
+    },
+    {
+        "command": "/home/emaj/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/sparkfun_promicro16/libb83/FastLED/fl/build/fl.test+.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60119 -DARDUINO_AVR_PROMICRO16 -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x1B4F -DUSB_PID=0x9206 \"-DUSB_PRODUCT=\\\"SparkFun Pro Micro\\\"\" -DUSB_MANUFACTURER=\\\"SparkFun\\\" -I.pio/libdeps/sparkfun_promicro16/FastLED/src -I/home/emaj/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src -I/home/emaj/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/emaj/.platformio/packages/framework-arduino-avr/variants/sparkfun_promicro .pio/libdeps/sparkfun_promicro16/FastLED/src/fl/build/fl.test+.cpp",
+        "directory": "/home/emaj/git/clkdiv/firmware",
+        "file": ".pio/libdeps/sparkfun_promicro16/FastLED/src/fl/build/fl.test+.cpp",
+        "output": ".pio/build/sparkfun_promicro16/libb83/FastLED/fl/build/fl.test+.cpp.o"
+    },
+    {
+        "command": "/home/emaj/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/sparkfun_promicro16/libb83/FastLED/fl/build/fl.ui+.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60119 -DARDUINO_AVR_PROMICRO16 -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x1B4F -DUSB_PID=0x9206 \"-DUSB_PRODUCT=\\\"SparkFun Pro Micro\\\"\" -DUSB_MANUFACTURER=\\\"SparkFun\\\" -I.pio/libdeps/sparkfun_promicro16/FastLED/src -I/home/emaj/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src -I/home/emaj/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/emaj/.platformio/packages/framework-arduino-avr/variants/sparkfun_promicro .pio/libdeps/sparkfun_promicro16/FastLED/src/fl/build/fl.ui+.cpp",
+        "directory": "/home/emaj/git/clkdiv/firmware",
+        "file": ".pio/libdeps/sparkfun_promicro16/FastLED/src/fl/build/fl.ui+.cpp",
+        "output": ".pio/build/sparkfun_promicro16/libb83/FastLED/fl/build/fl.ui+.cpp.o"
+    },
+    {
+        "command": "/home/emaj/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/sparkfun_promicro16/libb83/FastLED/fl/build/fl.video+.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60119 -DARDUINO_AVR_PROMICRO16 -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x1B4F -DUSB_PID=0x9206 \"-DUSB_PRODUCT=\\\"SparkFun Pro Micro\\\"\" -DUSB_MANUFACTURER=\\\"SparkFun\\\" -I.pio/libdeps/sparkfun_promicro16/FastLED/src -I/home/emaj/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src -I/home/emaj/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/emaj/.platformio/packages/framework-arduino-avr/variants/sparkfun_promicro .pio/libdeps/sparkfun_promicro16/FastLED/src/fl/build/fl.video+.cpp",
+        "directory": "/home/emaj/git/clkdiv/firmware",
+        "file": ".pio/libdeps/sparkfun_promicro16/FastLED/src/fl/build/fl.video+.cpp",
+        "output": ".pio/build/sparkfun_promicro16/libb83/FastLED/fl/build/fl.video+.cpp.o"
+    },
+    {
+        "command": "/home/emaj/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/sparkfun_promicro16/libb83/FastLED/fl/build/fl.wdt+.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60119 -DARDUINO_AVR_PROMICRO16 -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x1B4F -DUSB_PID=0x9206 \"-DUSB_PRODUCT=\\\"SparkFun Pro Micro\\\"\" -DUSB_MANUFACTURER=\\\"SparkFun\\\" -I.pio/libdeps/sparkfun_promicro16/FastLED/src -I/home/emaj/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src -I/home/emaj/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/emaj/.platformio/packages/framework-arduino-avr/variants/sparkfun_promicro .pio/libdeps/sparkfun_promicro16/FastLED/src/fl/build/fl.wdt+.cpp",
+        "directory": "/home/emaj/git/clkdiv/firmware",
+        "file": ".pio/libdeps/sparkfun_promicro16/FastLED/src/fl/build/fl.wdt+.cpp",
+        "output": ".pio/build/sparkfun_promicro16/libb83/FastLED/fl/build/fl.wdt+.cpp.o"
+    },
+    {
+        "command": "/home/emaj/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/sparkfun_promicro16/libb83/FastLED/fl/build/platforms+.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60119 -DARDUINO_AVR_PROMICRO16 -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x1B4F -DUSB_PID=0x9206 \"-DUSB_PRODUCT=\\\"SparkFun Pro Micro\\\"\" -DUSB_MANUFACTURER=\\\"SparkFun\\\" -I.pio/libdeps/sparkfun_promicro16/FastLED/src -I/home/emaj/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src -I/home/emaj/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/emaj/.platformio/packages/framework-arduino-avr/variants/sparkfun_promicro .pio/libdeps/sparkfun_promicro16/FastLED/src/fl/build/platforms+.cpp",
+        "directory": "/home/emaj/git/clkdiv/firmware",
+        "file": ".pio/libdeps/sparkfun_promicro16/FastLED/src/fl/build/platforms+.cpp",
+        "output": ".pio/build/sparkfun_promicro16/libb83/FastLED/fl/build/platforms+.cpp.o"
+    },
+    {
+        "command": "/home/emaj/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/sparkfun_promicro16/libb83/FastLED/fl/build/platforms.esp.32.net+.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60119 -DARDUINO_AVR_PROMICRO16 -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x1B4F -DUSB_PID=0x9206 \"-DUSB_PRODUCT=\\\"SparkFun Pro Micro\\\"\" -DUSB_MANUFACTURER=\\\"SparkFun\\\" -I.pio/libdeps/sparkfun_promicro16/FastLED/src -I/home/emaj/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src -I/home/emaj/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/emaj/.platformio/packages/framework-arduino-avr/variants/sparkfun_promicro .pio/libdeps/sparkfun_promicro16/FastLED/src/fl/build/platforms.esp.32.net+.cpp",
+        "directory": "/home/emaj/git/clkdiv/firmware",
+        "file": ".pio/libdeps/sparkfun_promicro16/FastLED/src/fl/build/platforms.esp.32.net+.cpp",
+        "output": ".pio/build/sparkfun_promicro16/libb83/FastLED/fl/build/platforms.esp.32.net+.cpp.o"
+    },
+    {
+        "command": "/home/emaj/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/sparkfun_promicro16/libb83/FastLED/fl/build/platforms.esp.32.ota+.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60119 -DARDUINO_AVR_PROMICRO16 -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x1B4F -DUSB_PID=0x9206 \"-DUSB_PRODUCT=\\\"SparkFun Pro Micro\\\"\" -DUSB_MANUFACTURER=\\\"SparkFun\\\" -I.pio/libdeps/sparkfun_promicro16/FastLED/src -I/home/emaj/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src -I/home/emaj/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/emaj/.platformio/packages/framework-arduino-avr/variants/sparkfun_promicro .pio/libdeps/sparkfun_promicro16/FastLED/src/fl/build/platforms.esp.32.ota+.cpp",
+        "directory": "/home/emaj/git/clkdiv/firmware",
+        "file": ".pio/libdeps/sparkfun_promicro16/FastLED/src/fl/build/platforms.esp.32.ota+.cpp",
+        "output": ".pio/build/sparkfun_promicro16/libb83/FastLED/fl/build/platforms.esp.32.ota+.cpp.o"
+    },
+    {
+        "command": "/home/emaj/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/sparkfun_promicro16/libb83/FastLED/fl/build/src.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60119 -DARDUINO_AVR_PROMICRO16 -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x1B4F -DUSB_PID=0x9206 \"-DUSB_PRODUCT=\\\"SparkFun Pro Micro\\\"\" -DUSB_MANUFACTURER=\\\"SparkFun\\\" -I.pio/libdeps/sparkfun_promicro16/FastLED/src -I/home/emaj/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src -I/home/emaj/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/emaj/.platformio/packages/framework-arduino-avr/variants/sparkfun_promicro .pio/libdeps/sparkfun_promicro16/FastLED/src/fl/build/src.cpp",
+        "directory": "/home/emaj/git/clkdiv/firmware",
+        "file": ".pio/libdeps/sparkfun_promicro16/FastLED/src/fl/build/src.cpp",
+        "output": ".pio/build/sparkfun_promicro16/libb83/FastLED/fl/build/src.cpp.o"
+    },
+    {
+        "command": "/home/emaj/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/sparkfun_promicro16/libb83/FastLED/fl/build/third_party+.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60119 -DARDUINO_AVR_PROMICRO16 -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x1B4F -DUSB_PID=0x9206 \"-DUSB_PRODUCT=\\\"SparkFun Pro Micro\\\"\" -DUSB_MANUFACTURER=\\\"SparkFun\\\" -I.pio/libdeps/sparkfun_promicro16/FastLED/src -I/home/emaj/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src -I/home/emaj/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/emaj/.platformio/packages/framework-arduino-avr/variants/sparkfun_promicro .pio/libdeps/sparkfun_promicro16/FastLED/src/fl/build/third_party+.cpp",
+        "directory": "/home/emaj/git/clkdiv/firmware",
+        "file": ".pio/libdeps/sparkfun_promicro16/FastLED/src/fl/build/third_party+.cpp",
+        "output": ".pio/build/sparkfun_promicro16/libb83/FastLED/fl/build/third_party+.cpp.o"
+    },
+    {
+        "command": "/home/emaj/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -mmcu=atmega32u4 -x assembler-with-cpp -DPLATFORMIO=60119 -DARDUINO_AVR_PROMICRO16 -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x1B4F -DUSB_PID=0x9206 \"-DUSB_PRODUCT=\\\"SparkFun Pro Micro\\\"\" -DUSB_MANUFACTURER=\\\"SparkFun\\\" -I.pio/libdeps/sparkfun_promicro16/FastLED/src -I/home/emaj/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src -I/home/emaj/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/emaj/.platformio/packages/framework-arduino-avr/variants/sparkfun_promicro -c -o .pio/build/sparkfun_promicro16/libb83/FastLED/platforms/esp/32/drivers/gpio_isr_rx/fast_isr.S.o .pio/libdeps/sparkfun_promicro16/FastLED/src/platforms/esp/32/drivers/gpio_isr_rx/fast_isr.S",
+        "directory": "/home/emaj/git/clkdiv/firmware",
+        "file": ".pio/libdeps/sparkfun_promicro16/FastLED/src/platforms/esp/32/drivers/gpio_isr_rx/fast_isr.S",
+        "output": ".pio/build/sparkfun_promicro16/libb83/FastLED/platforms/esp/32/drivers/gpio_isr_rx/fast_isr.S.o"
+    },
+    {
+        "command": "/home/emaj/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/sparkfun_promicro16/src/main.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60119 -DARDUINO_AVR_PROMICRO16 -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x1B4F -DUSB_PID=0x9206 \"-DUSB_PRODUCT=\\\"SparkFun Pro Micro\\\"\" -DUSB_MANUFACTURER=\\\"SparkFun\\\" -Iinclude -Isrc -I.pio/libdeps/sparkfun_promicro16/FastLED/src -I/home/emaj/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src -I/home/emaj/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/emaj/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/emaj/.platformio/packages/framework-arduino-avr/variants/sparkfun_promicro src/main.cpp",
+        "directory": "/home/emaj/git/clkdiv/firmware",
+        "file": "src/main.cpp",
+        "output": ".pio/build/sparkfun_promicro16/src/main.cpp.o"
+    }
+]
